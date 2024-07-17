@@ -1,6 +1,6 @@
 
 # Hi, my name is Volodymyr
-<a href="https://drive.google.com/file/d/1tX-DiX2GGPQvIGAzp94JYzIU6HCIeaaY/view?usp=sharing" ><b>My CV</b></a>
+<a href="https://drive.google.com/file/d/1Jqei7t9877qSm8QnZ1pVWZD_mah2vJ7g/view?usp=sharing" ><b>My CV</b></a>
 ---
 
 ### ⚙️ GitHub Stats:
